@@ -1,0 +1,5 @@
+auto_merge: true
+projects:
+- name: dev  
+  dir: dev
+
